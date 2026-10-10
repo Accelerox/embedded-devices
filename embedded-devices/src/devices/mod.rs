@@ -1,6 +1,7 @@
 pub mod analog_devices;
 pub mod belling;
 pub mod bosch;
+pub mod hitachi;
 pub mod microchip;
 pub mod sensirion;
 pub mod texas_instruments;

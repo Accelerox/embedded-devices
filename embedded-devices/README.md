@@ -31,6 +31,7 @@ Below you will find a list of all currently supported devices. Please visit thei
 | Bosch | BME280 | I2C/SPI | Temperature, pressure and relative humidity sensor | [Docs](https://docs.rs/embedded-devices/latest/embedded_devices/devices/bosch/bme280/index.html) |
 | Bosch | BMP280 | I2C/SPI | Temperature and pressure sensor | [Docs](https://docs.rs/embedded-devices/latest/embedded_devices/devices/bosch/bmp280/index.html) |
 | Bosch | BMP390 | I2C/SPI | Temperature and pressure sensor | [Docs](https://docs.rs/embedded-devices/latest/embedded_devices/devices/bosch/bmp390/index.html) |
+| Hitachi | HD44780 with PCF8574 backpack | I2C | 16×2 character LCD, four-bit interface | [Docs](https://docs.rs/embedded-devices/latest/embedded_devices/devices/hitachi/hd44780_pcf8574/index.html) |
 | Microchip | MCP3204 | SPI | 12-bit ADC, 4 single- or 2 differential channels | [Docs](https://docs.rs/embedded-devices/latest/embedded_devices/devices/microchip/mcp3204/index.html) |
 | Microchip | MCP3208 | SPI | 12-bit ADC, 8 single- or 4 differential channels | [Docs](https://docs.rs/embedded-devices/latest/embedded_devices/devices/microchip/mcp3208/index.html) |
 | Microchip | MCP9808 | I2C | Digital temperature sensor with ±0.5°C (max.) accuracy | [Docs](https://docs.rs/embedded-devices/latest/embedded_devices/devices/microchip/mcp9808/index.html) |
