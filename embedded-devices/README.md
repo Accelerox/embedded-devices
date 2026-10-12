@@ -34,6 +34,9 @@ Below you will find a list of all currently supported devices. Please visit thei
 | Microchip | MCP3204 | SPI | 12-bit ADC, 4 single- or 2 differential channels | [Docs](https://docs.rs/embedded-devices/latest/embedded_devices/devices/microchip/mcp3204/index.html) |
 | Microchip | MCP3208 | SPI | 12-bit ADC, 8 single- or 4 differential channels | [Docs](https://docs.rs/embedded-devices/latest/embedded_devices/devices/microchip/mcp3208/index.html) |
 | Microchip | MCP9808 | I2C | Digital temperature sensor with ±0.5°C (max.) accuracy | [Docs](https://docs.rs/embedded-devices/latest/embedded_devices/devices/microchip/mcp9808/index.html) |
+| Texas Instruments | ADS1113 | I2C | 16-bit ADC, fixed differential input and ±2.048 V range | [Docs](https://docs.rs/embedded-devices/latest/embedded_devices/devices/texas_instruments/ads111x/index.html) |
+| Texas Instruments | ADS1114 | I2C | 16-bit ADC, fixed differential input, PGA and comparator | [Docs](https://docs.rs/embedded-devices/latest/embedded_devices/devices/texas_instruments/ads111x/index.html) |
+| Texas Instruments | ADS1115 | I2C | 16-bit ADC, selectable inputs, PGA and comparator | [Docs](https://docs.rs/embedded-devices/latest/embedded_devices/devices/texas_instruments/ads111x/index.html) |
 | Texas Instruments | ADS7830 | I2C | 8-bit ADC, 8 single-ended inputs or 4 pseudo-differential pairs | [Docs](https://docs.rs/embedded-devices/latest/embedded_devices/devices/texas_instruments/ads7830/index.html) |
 | Texas Instruments | INA219 | I2C | 12-bit current shunt and power monitor | [Docs](https://docs.rs/embedded-devices/latest/embedded_devices/devices/texas_instruments/ina219/index.html) |
 | Texas Instruments | INA226 | I2C | 36V, 16-bit current shunt and power monitor | [Docs](https://docs.rs/embedded-devices/latest/embedded_devices/devices/texas_instruments/ina226/index.html) |

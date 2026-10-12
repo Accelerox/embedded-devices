@@ -1,3 +1,9 @@
+#[cfg(any(
+    feature = "texas_instruments-ads1113",
+    feature = "texas_instruments-ads1114",
+    feature = "texas_instruments-ads1115"
+))]
+pub mod ads111x;
 #[cfg(feature = "texas_instruments-ads7830")]
 pub mod ads7830;
 #[cfg(feature = "texas_instruments-ina219")]
